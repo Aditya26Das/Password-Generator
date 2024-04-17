@@ -3,7 +3,7 @@ import React from "react";
 function Box(props) {
   return (
     <div>
-      <div className="bg-black w-auto h-28 mx-96 mt-8 rounded-2xl flex justify-center">
+      <div className="bg-black h-28 mx-96 mt-8 rounded-lg flex justify-center">
         <input
           type="text"
           placeholder= "Password"
